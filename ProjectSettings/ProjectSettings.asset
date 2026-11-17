@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!129 &1
+PlayerSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 27
+  productGUID: 00000000000000000000000000000000
+  AndroidProfiler: 0
+  defaultScreenOrientation: 3
+  companyName: Mystic Games
+  productName: Mystic Tag
+  bundleVersion: 0.1.0
+  bundleVersionCode: 1
+  AndroidBundleVersionCode: 1
+  AndroidMinSdkVersion: 29
+  AndroidTargetSdkVersion: 35
+  applicationIdentifier:
+    Android: com.mysticgames.mystictag
+  scriptingBackend:
+    Android: 1
